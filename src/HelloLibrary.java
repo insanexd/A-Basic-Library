@@ -8,7 +8,6 @@ public class HelloLibrary {
         lib.add(book1);
         lib.add(book2);
 
-        lib.search("Java2");
 
     }
 }
